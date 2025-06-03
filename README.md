@@ -19,7 +19,7 @@ All data is stored in **PostgreSQL**, using the following tables:
 
 Below is the Entity-Relationship (ER) diagram representing the database schema:
 
-![ER Diagram](docs:ER_diagram.png)
+![ER Diagram](docs/ER_diagram.png)
 
 ### Tables
 
